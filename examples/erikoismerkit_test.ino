@@ -1,9 +1,9 @@
 #include <LOLIN_EPD.h>
 #include <Adafruit_GFX.h>
 
-#include "suomi20px_caps.h"
-#include "suomi18px_with_caps.h"
-#include "TimeManager.h"
+#include "../fonts/suomi20px_caps.h"
+#include "../fonts/suomi18px_with_caps.h"
+#include "../src/TimeManager.h"
 
 // ---------------- EPD ----------------
 #define EPD_CS   5
